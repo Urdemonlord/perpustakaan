@@ -11,10 +11,6 @@ Aplikasi manajemen perpustakaan berbasis Laravel untuk mengelola peminjaman buku
 
 ## Teknologi
 - Laravel 10
-- PostgreSQL
 - Bootstrap 5
 - DataTables
 - SweetAlert2
-
-## Deployment
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/laravel)
